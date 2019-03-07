@@ -4,7 +4,7 @@
 #
 Name     : R-pvclust
 Version  : 2.0.0
-Release  : 4
+Release  : 5
 URL      : https://cran.r-project.org/src/contrib/pvclust_2.0-0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/pvclust_2.0-0.tar.gz
 Summary  : Hierarchical Clustering with P-Values via Multiscale Bootstrap
